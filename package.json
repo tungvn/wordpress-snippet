@@ -1,0 +1,35 @@
+{
+    "name": "wordpress-snippet",
+    "displayName": "Wordpress Snippet",
+    "description": "Wordpress Snippet for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "tungvn",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "activationEvents": [
+        "onCommand:extension.sayHello"
+    ],
+    "main": "./extension",
+    "contributes": {
+        "snippets": [
+            {
+            "language": "php",
+            "path": "./snippets/functions.json"
+            },
+            {
+            "language": "php",
+            "path": "./snippets/classes.json"
+            }
+        ]
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install"
+    },
+    "devDependencies": {
+        "vscode": "^0.11.0"
+    }
+}
