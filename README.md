@@ -4,17 +4,16 @@
 This is a collection of WordPress snippets and autocompletions for Visual Studio Code
 
 - License: GNU/GPL
-- Version: 0.0.1
-- Author URI: http://tungvn.info
+- Version: 1.1
 - Extension URI: https://gitlab.com/tungvn/wordpress-snippet
 
 ### Features
 
 Autocomplete for:
 
-    WP version : 3.7.0
+    WP version : 4.6.1
 
-    Functions          : 1734
+    Functions          : 2884
     Constants/Classes  :  191
     
 ### Install instructions
@@ -31,11 +30,8 @@ Install by Packaged Extension (.vsix)
 - You can also install a .vsix by opening the file from within VS Code. Run File > Open File... or Ctrl+O and select the extension .vsix.
 
 ### Changelogs
-Version 0.8: First commit. Update functions, constant and classes from Wordpress 3.7
-
-### On my way
-- Update to WP lastest version (current: 4.5)
-- Update description for funtions, constant and classes. 
+- Version 1.1: Update functions snippet up to Wordpress 4.6.1
+- Version 0.8: First commit. Update functions, constant and classes from Wordpress 3.7
 
 ### Special thanks
 - [purplefish32](https://github.com/purplefish32) with https://github.com/purplefish32/sublime-text-2-wordpress
