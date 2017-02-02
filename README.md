@@ -4,7 +4,7 @@
 This is a collection of WordPress snippets and autocompletions for Visual Studio Code
 
 - License: GNU/GPL
-- Version: 1.1.1
+- Version: 1.1.2
 - Extension URI: https://gitlab.com/tungvn/wordpress-snippet
 
 ### Features
