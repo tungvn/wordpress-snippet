@@ -10691,7 +10691,7 @@
     },
     "wp_enqueue_script": {
         "prefix": "wp_enqueue_script",
-        "body": "wp_enqueue_script(${:handle}, ${:src}, ${:deps}, ${:in_footer})",
+        "body": "wp_enqueue_script(${:handle}, ${:src}, ${:deps}, ${:ver}, ${:in_footer})",
         "description": "Enqueue a script."
     },
     "wp_enqueue_scripts": {
@@ -10701,7 +10701,7 @@
     },
     "wp_enqueue_style": {
         "prefix": "wp_enqueue_style",
-        "body": "wp_enqueue_style(${:handle}, ${:src}, ${:deps}, ${:media})",
+        "body": "wp_enqueue_style(${:handle}, ${:src}, ${:deps}, ${:ver}, ${:media})",
         "description": "Enqueue a CSS stylesheet."
     },
     "wp_exif_date2ts": {
