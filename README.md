@@ -1,4 +1,4 @@
-# Wordpress Snippet
+# WordPress Snippet
 ==================
 
 This is a collection of WordPress snippets and autocompletions for Visual Studio Code
@@ -32,8 +32,8 @@ Install by Packaged Extension (.vsix)
 ### Changelogs
 - Version 1.1.2: Remove unnecessary command
 - Version 1.1.1: Fix a bug which show unnecessary characters on functions
-- Version 1.1: Update functions snippet up to Wordpress 4.6.1
-- Version 0.8: First commit. Update functions, constant and classes from Wordpress 3.7
+- Version 1.1: Update functions snippet up to WordPress 4.6.1
+- Version 0.8: First commit. Update functions, constant and classes from WordPress 3.7
 
 ### Special thanks
 - [purplefish32](https://github.com/purplefish32) with https://github.com/purplefish32/sublime-text-2-wordpress
