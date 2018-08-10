@@ -2,7 +2,7 @@
     "name": "wordpress-snippet",
     "displayName": "WordPress Snippet",
     "description": "WordPress Snippet for Visual Studio Code",
-    "version": "1.1.2",
+    "version": "1.1.4",
     "publisher": "tungvn",
     "engines": {
         "vscode": "^1.0.0"
