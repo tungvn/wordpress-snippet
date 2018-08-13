@@ -4,7 +4,7 @@
 This is a collection of WordPress snippets and autocompletions for Visual Studio Code
 
 - License: GNU/GPL
-- Version: 1.1.4
+- Version: 1.1.5
 - Extension URI: https://gitlab.com/tungvn/wordpress-snippet
 
 ### Features
@@ -30,6 +30,7 @@ Install by Packaged Extension (.vsix)
 - You can also install a .vsix by opening the file from within VS Code. Run File > Open File... or Ctrl+O and select the extension .vsix.
 
 ### Changelogs
+- Version 1.1.5: Fix wrong syntax bugs
 - Version 1.1.4: Add parameter $version at wp_enqueue_* function and capital WordPress. Thanks [Blake Wilson](https://gitlab.com/blakewilson) and [David G. Johnson](https://gitlab.com/TheDavidJohnson) for merge requests.
 - Version 1.1.2: Remove unnecessary command
 - Version 1.1.1: Fix a bug which show unnecessary characters on functions
