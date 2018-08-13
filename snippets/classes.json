@@ -691,7 +691,7 @@
     },
     "Walker_Nav_Menu": {
         "prefix": "Walker_Nav_Menu",
-        "body": "Walker_Nav_Menu(${:args})",
+        "body": "Walker_Nav_Menu(${0:\\$args})",
         "description": ""
     },
     "Walker_Page": {
@@ -816,12 +816,12 @@
     },
     "WP_Post": {
         "prefix": "WP_Post",
-        "body": "WP_Post(${:args})",
+        "body": "WP_Post(${0:\\$args})",
         "description": ""
     },
     "WP_Query": {
         "prefix": "WP_Query",
-        "body": "WP_Query(${:args})",
+        "body": "WP_Query(${0:\\$args})",
         "description": ""
     },
     "WP_Rewrite": {
